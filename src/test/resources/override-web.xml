@@ -27,8 +27,8 @@
     metadata-complete="true"
     version="2.5">
 
-<!--     <display-name>News Portlet</display-name>
-    <description>News Portlet</description>
+<!--     <display-name>Calender Portlet</display-name>
+    <description>Calender Portlet</description>
  -->
     <context-param>
         <param-name>log4jConfigLocation</param-name>
